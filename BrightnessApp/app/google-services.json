@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "110491829621",
+    "firebase_url": "https://brightnessapp-713cc.firebaseio.com",
+    "project_id": "brightnessapp-713cc",
+    "storage_bucket": "brightnessapp-713cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110491829621:android:2bac69929fa3e34a8dbf3c",
+        "android_client_info": {
+          "package_name": "com.example.brightnessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110491829621-79krqlk5br37j4ptpm69bactftgvp7o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKQQw2ONcYbVYN-QadU93dLH75h6cP97s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110491829621-79krqlk5br37j4ptpm69bactftgvp7o7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

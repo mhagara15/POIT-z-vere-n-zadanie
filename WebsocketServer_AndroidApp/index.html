@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Android Brightness</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="./static/index.js" defer></script>
+	<script src="static/gauge.min.js"></script>
+</head>
+
+<body>
+<h1>Android Brightness</h1>
+
+<input type="range" id="myRange" min="0" max="255" value="50">
+<button onclick="sendRequest()">Set brightness</button>
+
+
+
+<p id="logger"></p>
+
+<section id="console">
+    <div id="console-view"></div>
+</section>
+<h1>Gauge - Číselník</h1>
+<canvas id="canvasID"></canvas>
+</div>
+
+</body>
+</html>
